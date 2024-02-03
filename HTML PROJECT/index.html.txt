@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio of Vladislav Dydyshko</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="Main information">
+        <h1>Vladislav Dydyshko</h1>
+        <p>Student of gymnasium №61</p>
+        <img src="Main photo.png" width="284.18" height="295" alt="Main photo">
+      </div>
+    </header>
+
+    <main>
+
+    <section class="About me">
+      <h2>About me</h2>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+    </section>
+
+    <section class="My hobbies">
+      <h2>My hobbies</h2>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+    </section>
+
+    <section class="My travels">
+      <h3>My travels</h3>
+      <p class=""></p>
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+      <p class=""></p>
+    </section>
+
+    <section class="My achievements">
+      <h4>My achievements</h4>
+      <p class=""></p>
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+    </section>
+
+    <section class="My works and projects">
+      <h4>My works and projects</h4>
+      <p class=""></p>
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+    </section>
+
+    <section class="My contacts">
+      <h4>My contacts</h4>
+      <img src="" width="" height="" alt="">
+      <p class=""></p>
+      <img src="" width="" height="" alt="">
+      <p class=""></p>
+      <p class=""></p>
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+      <img src="" width="" height="" alt="">
+    </section>
+
+    </main>
+    <footer>
+      <p>Return to top</p>
+    </footer>
+  </body>
+</html>
